@@ -1,0 +1,7 @@
+Semester Subjects:
+Machine Learning
+Distributed System 
+Design and Analysis of Algorithm
+Natural Language Processing
+Embedded Systems
+Disaster Management
